@@ -27,5 +27,10 @@ THEN I can save my initials and score
 ![Quiz App Interface](https://github.com/gurvirsingh975/Quiz-App/blob/main/Image%201.PNG?raw=true)
 
 ##Link Deployment 
-link:
+link:https://gurvirsingh975.github.io/Quiz-App/
 Github Link:https://github.com/gurvirsingh975/Quiz-App
+
+##Future Improvements
+Update the interface to make it more unique.
+Save the Score and initials into a Database.
+Add more questions.
