@@ -1,5 +1,10 @@
 # Quiz-App
-This is a timed quiz on javascript fundamentals that stores high scores.
+This is a timed quiz that consists of 5 questions regarding javascript Fundamentals.
+The timer  provides you with 60 seconds to answer the questions , if the question is answered correctly , it will
+take you to the next question.
+If a question is answered incorrectly , the timer subtracts 10seconds.
+Once the game is over ,it asks for the initials and once you enter the initials it saves your initials and 
+score.
 
 
 ##AS A coding boot camp student
