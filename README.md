@@ -24,6 +24,8 @@ WHEN the game is over
 THEN I can save my initials and score
 
 
+![Quiz App Interface](https://github.com/gurvirsingh975/Quiz-App/blob/main/Image%201.PNG?raw=true)
+
 ##Link Deployment 
-link:https://gurvirsingh975.github.io/Password--Generator/ 
+link:
 Github Link:https://github.com/gurvirsingh975/Quiz-App
