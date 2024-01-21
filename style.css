@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: blueviolet;
+}
+
+#quiz-container {
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+#timer {
+    margin-top: 10px;
+}
+
+#result-container {
+    margin-top: 20px;
+}
+
+#initials-input {
+    margin-top: 10px;
+}
